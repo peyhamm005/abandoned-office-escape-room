@@ -8,7 +8,7 @@ This is a game I made in PowerPoint in March 2026, so I decided to remake it in 
 140 blocks and a lot of broadcast messages later, I did it!
 
 # Download instructions
-Download the latest release, extract the zip file, and run Abandoned Office.exe. No install required. The game will begin in fullscreen. To exit fullscreen, press Escape. To exit the game, press Escape again.
+Download the latest release, extract the zip file, and run Abandoned Office.exe. No install required. The game will begin in fullscreen. To exit fullscreen, press Escape. To exit the game, press Escape again. All of my games are also available on Itch. There is a link on my profile if you would like to learn more.
 
 # Fork instructions
 If you want to make a fork, feel free to fork the project. If you want to change something, then download the sb3 file from the latest release, load it into the Scratch offline or online editor, make the edits, save it to a new file, then upload the new file to TurboWarp Packager. To add the assets, rename the .sb3 to .zip and add everything inside to the assets.
